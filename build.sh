@@ -1,2 +1,2 @@
-cmake -B build -S . -DBUILD_SHARED_LIBS=ON
-cmake --build build -j 4
+cmake -B build
+cmake --build build
